@@ -138,7 +138,7 @@
 
 #### Dependency Upgrades
 
-- Ipgrade chromatic [#19468](https://github.com/storybooks/storybook/pull/19468)
+- Upgrade chromatic [#19468](https://github.com/storybooks/storybook/pull/19468)
 
 ## 7.0.0-alpha.37 (October 13, 2022)
 
